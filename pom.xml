@@ -36,7 +36,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>org.example.CheckerXtrTelegramBot</mainClass>
+                            <mainClass>org.example.CheckerXtrBot</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
