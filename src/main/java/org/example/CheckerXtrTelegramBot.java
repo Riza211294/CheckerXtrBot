@@ -47,9 +47,9 @@ public class CheckerXtrTelegramBot implements LongPollingSingleThreadUpdateConsu
                 String response =
                         "👤Basic info\n" +
                                 "•Username: @" + username + "\n" +
-                                "•Status: ✅Normal\n" +
+                                "•Account Status: ⚠️ Throttled (Unable to Match)\n" +
                                 "•Nickname: Muloh Abdul Gani\n" +
-                                "•Registered: 2025-11-08 04:45:58 (207 days)\n\n" +
+                                "•Registered: 2025-03-08\n\n" +
 
                                 "👤Detailed info\n" +
                                 "•Verified: ✅Verified\n" +
