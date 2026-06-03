@@ -4,7 +4,7 @@ import org.telegram.telegrambots.longpolling.TelegramBotsLongPollingApplication;
 
 public class CheckerXtrBot {
 
-    private static final String TOKEN = "8364491145:AAE5yor2kavGBuOMSdSicb52fF785RCctWQ";
+    private static final String TOKEN = "8364491145:AAHmeghY4ZYnGOvpWA--P76Cl7kyaDIRMNM";
 
     public static void main(String[] args) {
 
